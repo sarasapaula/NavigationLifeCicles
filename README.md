@@ -24,11 +24,3 @@ React Navigation LifeCicles example
    ```
 
 
-# File Managements
-
-These are the folders and the functionality
-
-```jsx
-/src/assets -> for media such as images, etc
-
-```
